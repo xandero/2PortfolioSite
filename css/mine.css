@@ -1,0 +1,83 @@
+.my-cursive {
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #fed136;
+}
+
+.sticker {
+width: 8em;
+height: 8em;
+}
+
+
+.example-1 .sticker-img {
+  background-image: url(../img/skills/javascript.jpg);
+  background-color: #f0db4f;
+}
+
+.example-2 .sticker-img {
+  background-image: url(../img/skills/ruby.png);
+  background-repeat: no-repeat;
+  background-color: #A24F4B;
+  background-position: center; 
+}
+
+.example-3 .sticker-img {
+  background-image: url(../img/skills/html.png);
+  background-repeat: no-repeat;
+  background-color: #FF8700;
+  background-position: center; 
+}
+
+.example-4 .sticker-img {
+  background-image: url(../img/skills/css.png);
+  background-repeat: no-repeat;
+  background-color: #1F87FF;
+  background-position: center; 
+}
+
+.example-5 .sticker-img {
+  background-image: url(../img/skills/backbone.png);
+  background-repeat: no-repeat;
+  background-color: #1FCAFF;
+  background-position: center; 
+}
+
+.example-6 .sticker-img {
+  background-image: url(../img/skills/jquery.jpg);
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: center; 
+}
+
+.example-7 .sticker-img {
+  background-image: url(../img/skills/api.png);
+  background-repeat: no-repeat;
+  background-color: #212056;
+  background-position: center; 
+}
+
+.example-8 .sticker-img {
+  background-image: url(../img/skills/postgresql.png);
+  background-repeat: no-repeat;
+  background-color: #282838;
+  background-position: center; 
+}
+
+.example-9 .sticker-img {
+  background-image: url(../img/skills/heroku.png);
+  background-repeat: no-repeat;
+  background-color: #160E1F;
+  background-position: center; 
+}
+
+.example-10 .sticker-img {
+  background-image: url(../img/skills/svg.png);
+  background-repeat: no-repeat;
+  background-color: #F3453A;
+  background-position: center; 
+}
+
+
+
+
+
